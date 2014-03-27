@@ -1,10 +1,8 @@
 == Welcome to Arduino can sense the environment by receiving input from a variety of sensors and can affect its surroundings by controlling lights, motors, and other actuators. The microcontroller on the board is programmed using the Arduino programming language
 
 == Install Arduino IDE on Ubuntu
-		
-		go to software center and serach for arduino
-		
-		you can easily install
+*go to software center and serach for arduino
+*you can easily install
 
 	 (OR)
 	http://playground.arduino.cc/Linux/Ubuntu#.UzQHCHV50R8
