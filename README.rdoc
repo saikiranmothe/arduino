@@ -16,3 +16,9 @@
 
 == Basics
 	http://arduino.cc/en/Tutorial/HomePage
+
+
+== RubyGems for Arduino
+	http://tutorials.jumpstartlab.com/projects/arduino/introducing_arduino.html
+	http://rubygems.org/gems/rake-arduino
+	https://github.com/supherman/arduino_build_notifier
