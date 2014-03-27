@@ -7,7 +7,7 @@
 	 (OR)
 	http://playground.arduino.cc/Linux/Ubuntu#.UzQHCHV50R8
 
-  sudo apt-get install arduino arduino-core
+ *sudo apt-get install arduino arduino-core
 
 
 == Help Links for Arduino Programing
@@ -19,6 +19,7 @@
 
 
 == RubyGems for Arduino
-	http://tutorials.jumpstartlab.com/projects/arduino/introducing_arduino.html
-	http://rubygems.org/gems/rake-arduino
-	https://github.com/supherman/arduino_build_notifier
+*http://tutorials.jumpstartlab.com/projects/arduino/introducing_arduino.html
+*http://rubygems.org/gems/rake-arduino
+*https://github.com/supherman/arduino_build_notifier
+*http://arduino.cc/en/Tutorial/Links
